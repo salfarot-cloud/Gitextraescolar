@@ -14,7 +14,9 @@ function App() {
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
+        <!-- ERROR FORZADO DE SINTAXIS -->
+        <div>
+
         <div>
           <h1>Get started</h1>
           <p>

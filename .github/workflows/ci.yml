@@ -26,3 +26,4 @@ jobs:
 
       - name: Ejecutar el script de empaquetado y comprobación
         run: npm run build
+
